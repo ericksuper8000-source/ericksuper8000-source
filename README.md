@@ -268,11 +268,15 @@ Automation pipelines and DevOps workflows.
 
 ---
 
-# 💭 Philosophy
+# 💭 Favorite Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<h3>
+
+“There’s always another perspective—and another way to do things better.”
+
+</h3>
 
 </div>
 
