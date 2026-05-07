@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hola 👋 Soy Erick Perez
 
-<!--
-**ericksuper8000-source/ericksuper8000-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de programación y cloud computing
 
-Here are some ideas to get you started:
+🚀 Actualmente aprendiendo:
+- Python
+- FastAPI
+- SQL
+- Docker
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Objetivo:
+Convertirme en Cloud & Backend Engineer
+
+---
+
+## 🛠 Tecnologías
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksuper8000-source&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+- LinkedIn
+- Discord
+- Email
