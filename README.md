@@ -1,10 +1,10 @@
-<!-- ================================================= -->
-<!--              ERICK PEREZ GITHUB PROFILE           -->
-<!-- ================================================= -->
+<!-- ===================================================== -->
+<!--                 ERICK PEREZ PROFILE                   -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=ERICK%20PEREZ&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Cloud%20%7C%20DevOps&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,50:091540,100:0B1F5E&text=ERICK%20PEREZ&fontSize=65&fontColor=00E7FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20Computing%20%7C%20DevOps&descAlignY=58"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Backend+Developer+in+Progress;AWS+Cloud+Student;Python+Developer;FastAPI+Enthusiast;Future+DevOps+Engineer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Backend+Engineer+in+Progress;Python+%7C+FastAPI+%7C+Docker;AWS+Cloud+Practitioner+Student;Building+Projects+and+Learning+Every+Day;Future+Cloud+%26+DevOps+Engineer"/>
 
 </div>
 
@@ -21,52 +21,68 @@
 <div align="center">
 
 <a href="https://github.com/ericksuper8000-source">
-<img src="https://img.shields.io/github/followers/ericksuper8000-source?style=for-the-badge&logo=github&label=Followers&color=blue"/>
+<img src="https://img.shields.io/github/followers/ericksuper8000-source?style=for-the-badge&logo=github&label=FOLLOWERS&color=0D1117"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=ericksuper8000-source&style=for-the-badge&color=brightgreen"/>
+<img src="https://komarev.com/ghpvc/?username=ericksuper8000-source&style=for-the-badge&color=0e75b6"/>
 
-<img src="https://img.shields.io/badge/Focused%20on-Cloud%20%26%20Backend-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focused%20on-Backend%20%26%20Cloud-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Learning-success?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# ⚡ About Me
 
-<img align="right" height="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3M0N3Q1d2s3OHNobTBhYmJ6a3l0N3NqdTQ3d3M3cjdwMGlxMG9nNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<div align="center">
+
+<table>
+<tr>
+<td width="65%">
 
 ```yaml
 name: Erick Perez
-located_in: Costa Rica
+
+location: Costa Rica
+
 current_focus:
-  [
-    "Python",
-    "FastAPI",
-    "Docker",
-    "AWS",
-    "SQL",
-    "CI/CD"
-  ]
+  - Backend Development
+  - Cloud Computing
+  - DevOps Fundamentals
+  - API Development
+  - Automation
 
-education:
-  [
-    "Self-Taught Developer",
-    "AWS Cloud Practitioner Student"
-  ]
+tech_stack:
+  - Python
+  - FastAPI
+  - Docker
+  - SQL
+  - Git/GitHub
+  - AWS
 
-goals_2026:
-  [
-    "Land my first tech role",
-    "Master Backend Development",
-    "Build Real Projects",
-    "Get AWS Certified"
-  ]
+currently_learning:
+  - CI/CD Pipelines
+  - Docker Containers
+  - AWS Services
+  - Cloud Architecture
 
-currently_learning: ["Cloud", "DevOps", "Automation"]
-
-hobbies: ["Tech", "Gaming", "Learning", "Problem Solving"]
+career_goal:
+  Become a professional Backend & Cloud Engineer
 ```
+
+</td>
+
+<td width="35%">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -74,50 +90,52 @@ hobbies: ["Tech", "Gaming", "Learning", "Problem Solving"]
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,git,github,mysql,linux,bash,vscode" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,mysql,git,github,linux,bash,vscode" />
 
 </div>
 
 ---
 
-# 🧠 Backend & Cloud Journey
+# 🧠 Core Focus Areas
 
 <div align="center">
 
 <table>
+
 <tr>
 
-<td width="300" align="center">
+<td align="center" width="300">
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="90"/>
 
 ### Backend Development
 
-Building APIs with Python and FastAPI while improving software architecture knowledge.
+Designing APIs and backend systems using Python and FastAPI while improving software architecture fundamentals.
 
 </td>
 
-<td width="300" align="center">
+<td align="center" width="300">
 
-<img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4144/4144783.png" width="90"/>
 
 ### Cloud Computing
 
-Learning AWS services, cloud fundamentals and infrastructure concepts.
+Learning AWS cloud services, deployment strategies and scalable infrastructure concepts.
 
 </td>
 
-<td width="300" align="center">
+<td align="center" width="300">
 
-<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="90"/>
 
 ### DevOps
 
-Exploring Docker, CI/CD pipelines and deployment automation.
+Exploring Docker, CI/CD pipelines and automation workflows to improve development processes.
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -128,9 +146,9 @@ Exploring Docker, CI/CD pipelines and deployment automation.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericksuper8000-source&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=ericksuper8000-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksuper8000-source&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksuper8000-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -140,7 +158,27 @@ Exploring Docker, CI/CD pipelines and deployment automation.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ericksuper8000-source&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ericksuper8000-source&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ericksuper8000-source&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ericksuper8000-source&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
 
 </div>
 
@@ -156,54 +194,56 @@ Exploring Docker, CI/CD pipelines and deployment automation.
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ericksuper8000-source&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 📌 Featured Goals
+# 🎯 Current Roadmap
 
 <div align="center">
 
 <table>
+
 <tr>
 
-<td align="center" width="250">
+<td align="center" width="200">
 
-<img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="70"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="70"/>
 
-### AWS Certified
+### Python
 
-Preparing for AWS Cloud Practitioner certification.
-
-</td>
-
-<td align="center" width="250">
-
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="70"/>
-
-### Build Projects
-
-Creating backend and cloud-based applications.
+Backend logic, automation and APIs.
 
 </td>
 
-<td align="center" width="250">
+<td align="center" width="200">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2620/2620277.png" width="70"/>
+<img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" width="70"/>
 
-### Continuous Learning
+### AWS
 
-Improving every day through practice and consistency.
+Cloud fundamentals and services.
+
+</td>
+
+<td align="center" width="200">
+
+<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="70"/>
+
+### Docker
+
+Containers and deployments.
+
+</td>
+
+<td align="center" width="200">
+
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="70"/>
+
+### CI/CD
+
+Automation pipelines and DevOps workflows.
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -215,22 +255,22 @@ Improving every day through practice and consistency.
 <div align="center">
 
 <a href="https://github.com/ericksuper8000-source">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💡 Philosophy
+# 💭 Philosophy
 
 <div align="center">
 
@@ -240,12 +280,14 @@ Improving every day through practice and consistency.
 
 ---
 
-# ⚡ Fun Fact
+# ⚙️ Mindset
 
 <div align="center">
 
 <h3>
-I enjoy turning ideas into real applications ☁️🚀
+
+Building skills one project at a time 🚀
+
 </h3>
 
 </div>
@@ -254,6 +296,6 @@ I enjoy turning ideas into real applications ☁️🚀
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050816,50:091540,100:0B1F5E"/>
 
 </div>
