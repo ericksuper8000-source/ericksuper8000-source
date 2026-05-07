@@ -142,29 +142,27 @@ Exploring Docker, CI/CD pipelines and automation workflows.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericksuper8000-source&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ericksuper8000-source&theme=github-dark-blue&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksuper8000-source&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ericksuper8000-source&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericksuper8000-source&theme=github_dark"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ericksuper8000-source&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
+# 📈 Development Graph
 
 <div align="center">
 
@@ -174,11 +172,11 @@ Exploring Docker, CI/CD pipelines and automation workflows.
 
 ---
 
-# 🏆 GitHub Achievements
+# 🚀 Development Focus
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ericksuper8000-source&theme=algolia&no-frame=true&margin-w=15&row=1"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,mysql,git,github,linux,bash,vscode&perline=5" />
 
 </div>
 
