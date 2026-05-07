@@ -21,7 +21,7 @@
 <div align="center">
 
 <a href="https://github.com/ericksuper8000-source">
-<img src="https://img.shields.io/github/followers/ericksuper8000-source?style=for-the-badge&logo=github&label=FOLLOWERS&color=0D1117"/>
+<img src="https://img.shields.io/github/followers/ericksuper8000-source?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=ericksuper8000-source&style=for-the-badge&color=0e75b6"/>
@@ -110,7 +110,7 @@ career_goal:
 
 ### Backend Development
 
-Designing APIs and backend systems using Python and FastAPI while improving software architecture fundamentals.
+Building APIs with Python and FastAPI while improving software architecture and clean code practices.
 
 </td>
 
@@ -120,7 +120,7 @@ Designing APIs and backend systems using Python and FastAPI while improving soft
 
 ### Cloud Computing
 
-Learning AWS cloud services, deployment strategies and scalable infrastructure concepts.
+Learning AWS services, deployment strategies and scalable infrastructure concepts.
 
 </td>
 
@@ -130,7 +130,7 @@ Learning AWS cloud services, deployment strategies and scalable infrastructure c
 
 ### DevOps
 
-Exploring Docker, CI/CD pipelines and automation workflows to improve development processes.
+Exploring Docker, CI/CD pipelines and automation workflows.
 
 </td>
 
@@ -146,9 +146,9 @@ Exploring Docker, CI/CD pipelines and automation workflows to improve developmen
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=ericksuper8000-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericksuper8000-source&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksuper8000-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksuper8000-source&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -158,7 +158,7 @@ Exploring Docker, CI/CD pipelines and automation workflows to improve developmen
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ericksuper8000-source&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ericksuper8000-source&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -168,7 +168,7 @@ Exploring Docker, CI/CD pipelines and automation workflows to improve developmen
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ericksuper8000-source&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ericksuper8000-source&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -178,7 +178,7 @@ Exploring Docker, CI/CD pipelines and automation workflows to improve developmen
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ericksuper8000-source&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ericksuper8000-source&theme=algolia&no-frame=true&margin-w=15&row=1"/>
 
 </div>
 
@@ -208,7 +208,7 @@ Exploring Docker, CI/CD pipelines and automation workflows to improve developmen
 
 ### Python
 
-Backend logic, automation and APIs.
+Backend logic, scripting and APIs.
 
 </td>
 
@@ -255,7 +255,7 @@ Automation pipelines and DevOps workflows.
 <div align="center">
 
 <a href="https://github.com/ericksuper8000-source">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
@@ -274,7 +274,7 @@ Automation pipelines and DevOps workflows.
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </div>
 
